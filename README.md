@@ -3,6 +3,4 @@
 </div>
 
 ### :fire: My Stats :
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByterGame&show_icons=true)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ByterGame&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ByterGame&theme=tokyonight&hide_border=true&border_radius=10&ring=DD2727)](https://git.io/streak-stats)
