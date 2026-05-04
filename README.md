@@ -1,6 +1,6 @@
-<div align="center">
-  <h1><strong style="color: #FFD700;">You break my heart, Miho.</strong></h1>
-</div>
+<!-- <div align="center">
+  <h1><strong>Discipline is sight for those who walk in the darkness.</strong></h1>
+</div> -->
 
 <div align="center">
   <img src="wave.gif" 
